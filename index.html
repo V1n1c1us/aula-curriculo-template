@@ -13,11 +13,24 @@
 
 <body>
     <div class="container">
-        <header class="my-info">
-            <img class="avatar" src="img/avatar.jpg" alt="avatar">
-            <div class="my-name">Vinícius Diehl de Franceschi</div>
-            <div class="my-title">Full Stack Web Developer</div>
-            <div class="links">
+        <header>
+            <div class="img-avatar">
+                <img class="avatar" src="img/avatar.jpg" alt="avatar">
+            </div>
+            <div class="my-name">
+                <p>Vinícius Diehl de Franceschi</p>
+                <div class="my-title">Full Stack Web Developer</div>
+            </div>
+        </header>
+        <div class="abstract">
+            <p class="abstract-text">
+                Netlify Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
+                maiores explicabo nam similique quaerat, porro perferendis adipisci molestias eius dolore eaque,
+                consequatur placeat
+                voluptates consequuntur! Quis quia incidunt aut, repellat aspernatur placeat praesentium vel enim eaque,
+                aperiam, in corrupti tenetur.
+            </p>
+            <!--             <div class="links">
                 <ul class="link-item">
                     <li>
                         <i class="fa fa-envelope"></i>
@@ -28,16 +41,18 @@
                         <a href="tel:51-99331-5081">(51) 99331-5081</a>
                     </li>
                 </ul>
-            </div>
-            <p class="description">
-                Netlify Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
-                maiores explicabo nam similique quaerat, porro perferendis adipisci molestias eius dolore eaque,
-                consequatur placeat
-                voluptates consequuntur! Quis quia incidunt aut, repellat aspernatur placeat praesentium vel enim eaque,
-                aperiam, in corrupti tenetur.</p>
-        </header><!-- end info -->
+            </div> -->
+        </div>
+        <nav>
+            <ul class="menu">
+                <li><a href="#experience">Experiências</a></li>
+                <li><a href="#education">Educação</a></li>
+                <li><a href="#skills">Habilidades</a></li>
+                <li><a href="#interests">Interesses</a></li>
+            </ul>
+        </nav>
         <hr>
-        <section class="experience">
+        <section class="experience" id="experience">
             <div class="section-title">Experiências</div>
             <div class="info-main">
                 <div class="info">Facebook</div>
@@ -81,7 +96,7 @@
             </div>
         </section>
         <hr>
-        <section class="education">
+        <section class="education" id="education">
             <div class="section-title">Educação</div>
             <div class="info-main">
                 <div class="info">Sistemas para Internet</div>
@@ -100,7 +115,7 @@
             </div>
         </section>
         <hr>
-        <section class="skills">
+        <section class="skills" id="skills">
             <div class="section-title">Habilidades</div>
             <div class="info-main">
                 <div class="skill">
@@ -128,7 +143,30 @@
             </div>
         </section>
         <hr>
-        <section class="skills">
+        <section class="interests" id="interests">
+            <div class="section-title">Interesses</div>
+            <div class="info-main">
+                <div class="interests-main">
+                    <ol type="I" start="3">
+                        <li>Html</li>
+                        <li>PHP</li>
+                        <li>JavaScript</li>
+                        <li>Mysql</li>
+                    </ol>
+                    <h4>Definição</h4>
+                    <dl>
+                        <dt>Html</dt>
+                        <dd> Html Basico</dd>
+                        <dd> Html Avançado</dd>
+                        <dt> PHP</dt>
+                        <dd> JavaScript Básico</dd>
+                        <dt> Mysql</dt>
+                        <dd> Mysql Avançado</dd>
+                    </dl>
+                </div>
+    </div>
+    </section>
+    <!--<section class="interests" id="interests">
             <div class="section-title">Interesses</div>
             <div class="info-main">
                 <div class="interests-main">
@@ -144,19 +182,20 @@
                     </ul>
                 </div>
             </div>
-        </section>
-        <hr>
-        <footer>
-            <div class="info-main">
-                <div class="footer-main">
-                    <ul>
-                        <li><i class="fa fa-user"> Vinícius Diehl de Franceschi</i></li>
-                        <li><i class="fa fa-envelope-open-text"> v.f.diehl@gmail.com</i></li>
-                        <li><i class="fas fa-mobile-alt"> (51) 99331-5081</i></li>
-                    </ul>
-                </div>
+        </section>-->
+    <hr>
+    <footer>
+        <div class="info-main">
+            <div class="section-title-contato">Contato</div>
+            <div class="footer-main">
+                <ul>
+                    <li>Vinícius Diehl de Franceschi</i></li>
+                    <li>v.f.diehl@gmail.com</i></li>
+                    <li>(51) 99331-5081</i></li>
+                </ul>
             </div>
-        </footer>
+        </div>
+    </footer>
     </div>
 </body>
 
