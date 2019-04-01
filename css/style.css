@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.5;
+    background: #F2F2F2;
+    color: #323232;
+}
+
+.container {
+    max-width: 960px;
+    margin: 40px auto;
+    padding: 32px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+/********** MY-INFO **********/
+.my-info {
+    text-align: center;
+    padding: 15px;
+}
+
+img { border-radius: 50%;}
+img.avatar {
+    width: 130px;
+}
+.my-name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px;
+    line-height: 1;
+}
+  
+.my-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    color: #236FB2;
+}
+
+.link-item {
+    padding: 30px;
+}
+.link-item li {
+    display: inline;
+    padding: 20px;
+}
+.link-item li a {
+    text-decoration: none;
+}
+.link-item li i {
+    font-size: 20px;
+}
+
+.my-info .description {
+    text-align: justify;
+    margin-bottom: 15px;
+}
+/********** EDN MY-INFO **********/
+
+
+/********** EXPRECIENCE - ECUCATION **********/
+.section-title {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 25pt;
+    margin-top: 30px;
+    margin-bottom: 10%;
+}
+.info-main {
+    margin-bottom: 20px;
+}
+.info {
+    font-weight: bold;
+    font-size: 20pt;
+}
+.info-title {
+    color: rgb(66, 6, 6);
+}
+.info-data {
+    float: right;
+    color: rgb(179, 174, 174);
+}
+
+.info-description {
+    margin-top: 50px;
+}
+.info-description p {
+    text-align: justify;
+}
+/********** END EXPRECIENCE - ECUCATION **********/
+
+.skill {
+    text-align: center;
+}
+.info-skills-list ul {
+    width:300px;
+    margin:auto;
+    padding:0;
+    display:inline-block;
+    list-style-type: none;
+}
+.info-skills-list ul li{
+    padding: 5px;
+}
+
+
+
+.interests-main {
+    text-align: center;
+}
+
+.interests-main ul {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+.interests-main ul li {
+    display: inline;
+    padding: 20px;
+    font-size: 50pt;
+}
+
+.interests-main ul li:hover {
+    color: #09f;
+}
+
+
+.footer-main {
+    margin-top: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.footer-main ul li {
+    display: inline;
+    padding: 20px;
+}
+
+.footer-main i {
+    padding: 50px;
+}
