@@ -63,7 +63,7 @@ img.avatar {
 /********** EDN MY-INFO **********/
 
 
-/********** EXPRECIENCE - ECUCATION **********/
+/********** EXPRECIENCE - ECUCATION - SKILLS - INTERESTS - FOOTER **********/
 .section-title {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
@@ -92,8 +92,10 @@ img.avatar {
 .info-description p {
     text-align: justify;
 }
-/********** END EXPRECIENCE - ECUCATION **********/
+/********** END **********/
 
+
+/********** SKILLS **********/
 .skill {
     text-align: center;
 }
@@ -107,9 +109,9 @@ img.avatar {
 .info-skills-list ul li{
     padding: 5px;
 }
+/********** END **********/
 
-
-
+/********** INTERESTS **********/
 .interests-main {
     text-align: center;
 }
@@ -128,8 +130,9 @@ img.avatar {
 .interests-main ul li:hover {
     color: #09f;
 }
+/********** END **********/
 
-
+/********** FOOTER **********/
 .footer-main {
     margin-top: 50px;
     font-weight: 400;
@@ -144,3 +147,4 @@ img.avatar {
 .footer-main i {
     padding: 50px;
 }
+/********** END **********/
