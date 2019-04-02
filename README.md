@@ -1,7 +1,10 @@
-# Exercício - Template Currículo
+## Exercício - Template Currículo
 
 ### Desenvolver o template abaixo, utilizando os recursos visto em aula até o momento.
-### Utilizando:  
+### Para desenvolver o currículo, utilize HTML e CSS. 
+### Use a formatação de tags utilizadas no HTML 5 como:
+  -**```<header> <nav> <section> <footer>```**
+### Aplique os estilos CSS mencionados abaixo:  
   - Formatação de Texto
   - Estilos de Fonte ('Source Sans Pro', sans-serif)
   - Estilos de Background
