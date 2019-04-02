@@ -67,12 +67,13 @@ img.avatar { width: 150px;}
 }
 */
 .menu {
-    text-align: center;
     margin-top: 5%;
+    float: left;
 }
 .menu li {
-    display: inline;
-    padding: 20px;
+    padding: 10px;
+    list-style: none;
+    
 }
 .menu li a {
     font-family: 'Source Sans Pro', sans-serif;
@@ -92,6 +93,9 @@ img.avatar { width: 150px;}
 
 
 /********** EXPRECIENCE - ECUCATION - SKILLS - INTERESTS - FOOTER **********/
+.main {
+    margin-left: 200px;
+}
 .section-title {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 700;
@@ -131,7 +135,7 @@ img.avatar { width: 150px;}
     text-align: center;
 }
 .info-skills-list ul {
-    width:300px;
+    width:240px;
     margin:auto;
     padding:0;
     display:inline-block;
