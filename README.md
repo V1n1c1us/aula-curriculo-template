@@ -43,3 +43,8 @@
       - padding: 0 - 5px
       - display: inline-block
       - list-style-type: square
+      
+# Dicas
+> Algumas dicas para formatar o layout
+
+![alt text](https://github.com/V1n1c1us/aula-curriculo-template/blob/master/img/images/layout_02.jpg)
