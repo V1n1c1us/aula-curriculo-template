@@ -8,6 +8,7 @@
   - Imagens
 
 ###Algumas definições
+
   ###```<body>```
       - background-color: #F2F2F2
       - color: #323232
@@ -39,6 +40,3 @@
       - padding: 0 - 5px
       - display: inline-block
       - list-style-type: square
-
-
-![alt text](https://github.com/V1n1c1us/aula-curriculo-template/blob/master/img/curriculo-vitae.jpg)
