@@ -34,7 +34,7 @@
       - text-indent: 140px
       - text-align: justify - center
       
-  ### Lista ordenada/ não ordenada <ul> <li>
+  ### Lista ordenada/ não ordenada 
       - width: 300px
       - margin: auto
       - padding: 0 - 5px
