@@ -8,10 +8,15 @@ body{
     background: #F2F2F2;
     color: #323232;
 }
-
-.container {
+header {
     max-width: 960px;
     margin: 40px auto;
+    padding: 32px;
+    background: white;
+}
+.container {
+    max-width: 960px;
+    margin: 10px auto;
     padding: 32px;
     background: white;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -167,13 +172,6 @@ img.avatar { width: 150px;}
  END **********/
 
 /********** FOOTER **********/
-.section-title-contato {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 700;
-    font-size: 25pt;
-    margin-top: 30px;
-    margin-bottom: 10%;
-}
 .footer-main {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15pt;
