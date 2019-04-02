@@ -11,7 +11,7 @@
   - Imagens
 -----------------
 ### A cor de fundo do site é cinza.
-### O header possui uma largura de 960px, uma margem de 40px e um espaçamento de 32px, sua cor de fundo é branca.
+### O container possui uma largura de 960px, uma margem de 40px e um espaçamento de 32px, sua cor de fundo é branca.
 ### O header possui 2 cabeçalhos com fonte "'Source Sans Pro', sans-serif", flutua a direita e está alinhada a direita do sub-título, tem um tamanho de 20px e cor azul.
 ### O Avatar, flutua a esqueda da página, sua borda é arredondada em 50% e seu tamanho é de 150px.
 ### A família da fonte utilizada nos textos é "'Source Sans Pro', sans-serif".
