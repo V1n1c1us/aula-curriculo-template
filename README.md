@@ -25,7 +25,7 @@
       - background-color: white
       - box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
   
-    ### Textos e títulos <p>
+  ### Textos e títulos <p>
       - font-family: 'Source Sans Pro', sans-serif
       - font-weight: 700
       - font-size: 25pt - 20pt
@@ -34,7 +34,7 @@
       - text-indent: 140px
       - text-align: justify - center
       
-    ### Lista ordenada/ não ordenada <ul> <li>
+  ### Lista ordenada/ não ordenada <ul> <li>
       - width: 300px
       - margin: auto
       - padding: 0 - 5px
